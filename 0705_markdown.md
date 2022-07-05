@@ -72,17 +72,15 @@ At the command prompt, type `nano`
 
 마크다운 이미지가 안보이는 경우(github) >> Typora 설정
 
-![image-20220705113052820](../마크다운 입니다.assets/image-20220705113052820.png)
 
 
-
-
+![image-20220705112533329](0705_markdown.assets/image-20220705112533329.png)
 
 ## 🏷️인용문
 
 > 안녕 | `> 내용`
 >
-> 탈출 |  `alt + enter`
+> 탈출 |  `enter + enter`
 
 
 
@@ -105,7 +103,7 @@ At the command prompt, type `nano`
 
 `Ctrl + /`
 
-![image-20220705112533329](../마크다운 입니다.assets/image-20220705112533329.png)
+![image-20220705113052820](0705_markdown.assets/image-20220705113052820-16570088335791.png)
 
 ## 🏷️텍스트 
 
